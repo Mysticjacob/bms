@@ -222,7 +222,7 @@ table button:hover {
   color: #1e40af;
   text-decoration: none;
 }
-* Container for payment inputs in the loans table */
+/* Container for payment inputs in the loans table */
 table tbody tr td select,
 table tbody tr td input[type="text"] {
   padding: 6px 10px;
